@@ -102,7 +102,7 @@ a.enlacesRef:visited {
 }
 	
 li.li:hover{
-	background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.1) ), url(../img/iconoMenu.PNG);
+	background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.1) ), url(../img/iconoMenu.png);
     background-position-x: right;
     background-repeat: no-repeat;
     background-size: contain;
